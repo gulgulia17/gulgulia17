@@ -6,3 +6,5 @@
 - 📫 How to reach me [Gmail](gulgulia17@gmail.com) [Mobile](tel:8890070352) 
 - 😄 Pronouns: Mudit Gulgulia
 - ⚡ Fun fact: Nothing crazzy
+
+![Metrics](https://github.com/gulgulia17/gulgulia17/blob/main/github-metrics.svg)
