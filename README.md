@@ -7,4 +7,7 @@
 - 😄 Pronouns: Mudit Gulgulia
 - ⚡ Fun fact: Nothing crazzy
 
-![Metrics](https://github.com/gulgulia17/gulgulia17/blob/main/github-metrics.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mudit-gulgulia-590894199/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/mudit.dev/)
+
+![Metrics](https://metrics.lecoq.io/gulgulia17)
